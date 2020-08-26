@@ -1,1 +1,1 @@
-# 12-NLP-crypto-sentiment
+# NLP crypto sentiment
